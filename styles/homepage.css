@@ -1,0 +1,19 @@
+p,
+h2,
+li{
+    color:red;
+}
+html{
+    background-color:bisque ;
+}
+img{
+    display: block;
+    margin: px; auto;
+    
+}
+h1{
+    padding: 0;
+    margin: 20px;
+    color: aqua;
+    text-shadow: 3px 5px 1px orange;
+}
